@@ -9,7 +9,7 @@ vim +PluginInstall +qall
 ln -s ~/.vim/bundle bundle.lnk
 ln -s ~/.vimrc vimrc.lnk
 
-~/.vim/bundle/YouCompleteMe/install.py
+python3 ~/.vim/bundle/YouCompleteMe/install.py
 
 #TODO: reminders about extra install steps for plugins
 #TODO: prompt warning at beginning?
