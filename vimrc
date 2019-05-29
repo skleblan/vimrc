@@ -9,6 +9,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'WolfgangMehner/perl-support'
 Plugin 'c9s/perlomni.vim'
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'vim-airline/vim-airline'
 
 call vundle#end()
 
