@@ -10,7 +10,9 @@ Plugin 'WolfgangMehner/perl-support'
 Plugin 'c9s/perlomni.vim'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-airline/vim-airline'
+Plugin 'scrooloose/nerdtree'
 Plugin 'tomtom/tcomment_vim'
+Plugin 'nirocfz/vim-coloresque'
 
 call vundle#end()
 
