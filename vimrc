@@ -25,4 +25,8 @@ set shiftwidth=2
 set foldmethod=syntax
 let perl_fold = 1
 let perl_fold_blocks = 1
+let python_fold = 1
 let g:airline#extensions#tabline#enabled = 1
+
+"adds ability to pull man pages using ':Man nslookup'
+runtime ftplugin/man.vim
